@@ -5,3 +5,6 @@ citations.txt
 X_test_common.parquet
 X_train_common.parquet
 X_val_common.parquet
+conclusion.txt
+introduction.txt
+related_works.txt
